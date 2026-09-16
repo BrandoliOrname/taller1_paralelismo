@@ -10,7 +10,7 @@ import concurrent.futures
 
 N = 20  # Número de Fibonacci a calcular
 
-#Algortimo recursivo para calcular Fibonacci
+#Algoritmo recursivo para calcular Fibonacci
 def fibonacci(n):
     if n <= 1:
         return n
